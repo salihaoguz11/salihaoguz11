@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="right" width="500"></br>
 
-## 👷🏻‍♀️👋🏻 Hi there, I'm BURAK 👷🏻‍♀️👋
+## 👷🏻‍♀️👋🏻 Hi there, I'm SALIHA 👷🏻‍♀️👋
 
 <font color="pink"> 🐱‍🏍 I'm Automotive Engineer but I find myself in software. </font>
 </br>
@@ -107,11 +107,11 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 <div  align="center">
 <br/>
 <img
-     src="https://github-readme-stats.vercel.app/api?username=burakustunnn&theme=blue-green"
+     src="https://github-readme-stats.vercel.app/api?username=salihaoguz11&theme=blue-green"
      alt=""
      /> </br></br></br>
 <img
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=burakustunnn&theme=blue-green"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=salihaoguz11&theme=blue-green"
      alt=""
      /> <br/>
 </div>
