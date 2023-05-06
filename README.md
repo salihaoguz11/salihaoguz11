@@ -54,7 +54,7 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 [ Blog-App](https://github.com/salihaoguz11/Blog_app-main) <h3>[Repo](https://github.com/salihaoguz11/Blog_app-main)</h3> | React JS, CSS |![Blog-App](https://github.com/salihaoguz11/Blog_app-main/blob/main/blog-app.gif)
 [Tailwind  Movie-App](https://github.com/salihaoguz11/movie-app-tailwind/tree/main/movie-app-starter) <h3>[Repo](https://github.com/salihaoguz11/movie-app-tailwind/tree/main/movie-app-starter)</h3> | React JS, Tailwind |![Movie-App](https://github.com/salihaoguz11/movie-app-tailwind/blob/main/movie-app-starter/movie-app.gif)
 [Countries](https://github.com/salihaoguz11/countries-react-scss) <h3>[Repo](https://github.com/salihaoguz11/countries-react-scss)</h3> | React JS, CSS |![Countries](https://github.com/salihaoguz11/countries-react-scss/blob/main/tour-project.gif)
-[Car Animation](https://github.com/salihaoguz11/CAR_ANIMATION) <h3>[Repo](https://github.com/salihaoguz11/CAR_ANIMATIONs)</h3> | HTML, CSS |![Car-Animation](https://github.com/salihaoguz11/CAR_ANIMATION)
+[Car Animation](https://github.com/salihaoguz11/CAR_ANIMATION) <h3>[Repo](https://github.com/salihaoguz11/CAR_ANIMATIONs)</h3> | HTML, CSS |![Car-Animation](https://github.com/salihaoguz11/CAR_ANIMATION/blob/main/Car-Animation.gif)
 
 
 
