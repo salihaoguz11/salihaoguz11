@@ -51,7 +51,8 @@
 
 Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-[React Blog-App](https://github.com/salihaoguz11/Blog_app-main) <h3>[Repo](https://github.com/salihaoguz11/Blog_app-main)</h3> | Vanilla JS, PureCSS |![Blog-App](https://github.com/salihaoguz11/Blog_app-main/blob/main/blog-app.gif)
+[React Blog-App](https://github.com/salihaoguz11/Blog_app-main) <h3>[Repo](https://github.com/salihaoguz11/Blog_app-main)</h3> | React, PureCSS |![Blog-App](https://github.com/salihaoguz11/Blog_app-main/blob/main/blog-app.gif)
+[Tailwind  Movie-App](https://github.com/salihaoguz11/movie-app-tailwind/tree/main/movie-app-starter) <h3>[Repo](https://github.com/salihaoguz11/movie-app-tailwind/tree/main/movie-app-starter)</h3> | Tailwind |![Movie-App](https://github.com/salihaoguz11/movie-app-tailwind/blob/main/movie-app-starter/movie-app.gif)
 
 
 
