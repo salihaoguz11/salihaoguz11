@@ -76,6 +76,7 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
      alt=""
      /> <br/>
 </div>
+<br>
 <p align="center"><b> Thank You for visiting my profile </b></p>
 <div align="center">
  <b style = {font-weight: 600}>Visitors Count</b>
