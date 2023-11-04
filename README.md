@@ -55,6 +55,7 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 [Tailwind  Movie-App](https://github.com/salihaoguz11/movie-app-tailwind/tree/main/movie-app-starter) <h3>[Repo](https://github.com/salihaoguz11/movie-app-tailwind/tree/main/movie-app-starter)</h3> | React JS, Tailwind |![Movie-App](https://github.com/salihaoguz11/movie-app-tailwind/blob/main/movie-app-starter/movie-app.gif)
 [Countries](https://github.com/salihaoguz11/countries-react-scss) <h3>[Repo](https://github.com/salihaoguz11/countries-react-scss)</h3> | React JS, CSS |![Countries](https://github.com/salihaoguz11/countries-react-scss/blob/main/tour-project.gif)
 [Car Animation](https://github.com/salihaoguz11/CAR_ANIMATION) <h3>[Repo](https://github.com/salihaoguz11/CAR_ANIMATION)</h3> | HTML, CSS |![Car-Animation](https://github.com/salihaoguz11/CAR_ANIMATION/blob/main/Car-Animation.gif)
+[Portfolio]([https://github.com/salihaoguz11/CAR_ANIMATION]([https://github.com/salihaoguz11/portfolio-Saliha_Oguz]([https://github.com/salihaoguz11/portfolio-Saliha_Oguz](https://github.com/salihaoguz11/portfolio-Saliha_Oguz)))) <h3>[Repo](https://github.com/salihaoguz11/CAR_ANIMATION)</h3> | HTML, CSS ,JS |![Portfolio](https://github.com/salihaoguz11/portfolio-Saliha_Oguz/blob/main/portfolio.gif)
 
 
 
