@@ -56,7 +56,7 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 [Countries](https://github.com/salihaoguz11/countries-react-scss) <h3>[Repo](https://github.com/salihaoguz11/countries-react-scss)</h3> | React JS, CSS |![Countries](https://github.com/salihaoguz11/countries-react-scss/blob/main/tour-project.gif)
 [Car Animation](https://github.com/salihaoguz11/CAR_ANIMATION) <h3>[Repo](https://github.com/salihaoguz11/CAR_ANIMATION)</h3> | HTML, CSS |![Car-Animation](https://github.com/salihaoguz11/CAR_ANIMATION/blob/main/Car-Animation.gif)
 [Portfolio](https://github.com/salihaoguz11/portfolio-Saliha_Oguz) <h3>[Repo](https://github.com/salihaoguz11/CAR_ANIMATION)</h3> | HTML, CSS, Vanilla JS |![Portfolio](https://github.com/salihaoguz11/portfolio-Saliha_Oguz/blob/main/portfolio.gif)
-[Hangman-Game]((https://github.com/salihaoguz11/hangman)) <h3>[Repo](https://github.com/salihaoguz11/hangman)</h3> | Typescript, React Js, Module Css |![Hangman-Game](https://github.com/salihaoguz11/hangman/blob/hangman.gif)
+[Hangman-Game](https://github.com/salihaoguz11/hangman) <h3>[Repo](https://github.com/salihaoguz11/hangman)</h3> | Typescript, React Js, Module Css |![Hangman-Game](https://github.com/salihaoguz11/hangman/blob/main/hangman.gif)
 
 
 
